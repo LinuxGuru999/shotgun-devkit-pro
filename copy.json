@@ -1,0 +1,18 @@
+{
+  "headline": "Ship your next developer project in hours, not weeks.",
+  "benefits": [
+    "Automate your entire software launch workflow instantly.",
+    "Diagnose and fix environment issues with one command.",
+    "Customize every line of code with full source access."
+  ],
+  "faq": [
+    {
+      "q": "Will this work with my current tech stack?",
+      "a": "Yes, DevKit Pro is designed to integrate seamlessly with modern web development stacks and CLI tools."
+    },
+    {
+      "q": "Do I get access to future updates?",
+      "a": "Yes, your purchase includes lifetime access to all future updates and source code improvements."
+    }
+  ]
+}
